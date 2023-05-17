@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'lkasociados' );
 
 /** Database username */
-define( 'DB_USER', 'rootdos' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
 define( 'DB_PASSWORD', '' );
